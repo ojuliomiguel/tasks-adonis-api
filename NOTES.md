@@ -17,3 +17,9 @@ adonis make:controller User --type http
 ```
 adonis install @adonisjs/validator
 ```
+
+Creating migrations. Ex: 
+
+```
+adonis make:model tarefa -m -c
+```
