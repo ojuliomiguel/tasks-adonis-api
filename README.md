@@ -1,32 +1,12 @@
 # Adonis API application
 
-This project is my get start in AdonisJS
+This project is my "getting start" in AdonisJS
 
+:folder: [Adonis README.md](./assets/docs/adonisreadme.md)
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with:
+:folder: [Notes of learning](./assets/docs/NOTES.md)
 
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+# ToDo
 
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick --api-only
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
-### [Notes](./NOTES.md)
+- [ ] Review IoC Cointaner
+- [ ] Keeping Studing the rest of documentation :laughing:
